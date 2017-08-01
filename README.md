@@ -13,4 +13,4 @@
 ![chart](chart.png)
 
 ### Implementation in Python on Hadoop-Spark
-![hadoop-spark](hadoop-spark.png)# needleman-wunsch-hadoop-spark
+![hadoop-spark](hadoop-spark.png)
