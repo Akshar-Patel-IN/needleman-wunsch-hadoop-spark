@@ -6,7 +6,7 @@
 * Tools and OS: Atom, Ubuntu
 * Platform: Hadoop Cluster
 * Lines of Code: 607
-* Duration: 1 Week (OCT-2016)
+* Duration: 1 Week (OCT 2016)
 
 ### Comparison of Implementations in C
 ![table](table.png)
