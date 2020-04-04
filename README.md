@@ -1,3 +1,4 @@
+### :small_blue_diamond: Project Year: 2016 :small_blue_diamond:
 ###### :rocket: my first hadoop project :rocket:
 ## Needleman-Wunsch Algorithm: Parallel Implementation of Needleman-Wunsch Algorithm using Hadoop-Spark and C
 ### A Parallel Implementation of Needleman-Wunsch Algorithm in Python using Apache Hadoop and Apache Spark. The same was implemented in C using different parallel techniques for the comparison.
